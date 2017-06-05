@@ -1,7 +1,3 @@
-# Created by .ignore support plugin (hsz.mobi)
 .gitignore
-.idea/workspace.xml
 Design_Pattern_Java.iml
-out
 .idea
-src/Template_Method/Main.java

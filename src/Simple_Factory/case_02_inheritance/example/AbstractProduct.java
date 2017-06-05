@@ -1,7 +1,7 @@
 package Simple_Factory.case_02_inheritance.example;
 
 /**
- * Implementation of the product abstract class
+ * Implementation of the product abstract_imp class
  *
  * @author malex
  */

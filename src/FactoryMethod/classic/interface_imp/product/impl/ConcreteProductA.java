@@ -1,6 +1,6 @@
-package FactoryMethod.classic.case_1.product.impl;
+package FactoryMethod.classic.interface_imp.product.impl;
 
-import FactoryMethod.classic.case_1.product.Product;
+import FactoryMethod.classic.interface_imp.product.Product;
 
 public class ConcreteProductA implements Product {
 

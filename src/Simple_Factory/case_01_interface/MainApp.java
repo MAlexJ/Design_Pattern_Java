@@ -9,6 +9,7 @@ import Simple_Factory.case_01_interface.example.ProductFactory;
  * @author malex
  */
 public class MainApp {
+
     public static void main(String[] args) {
 
         //Product A

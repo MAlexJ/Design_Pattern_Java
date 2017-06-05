@@ -1,8 +1,8 @@
-package FactoryMethod.classic.case_1;
+package FactoryMethod.classic.interface_imp;
 
-import FactoryMethod.classic.case_1.creator.Creator;
-import FactoryMethod.classic.case_1.creator.impl.ConcreteCreatorA;
-import FactoryMethod.classic.case_1.creator.impl.ConcreteCreatorB;
+import FactoryMethod.classic.interface_imp.creator.Creator;
+import FactoryMethod.classic.interface_imp.creator.impl.ConcreteCreatorA;
+import FactoryMethod.classic.interface_imp.creator.impl.ConcreteCreatorB;
 
 public class Main {
 

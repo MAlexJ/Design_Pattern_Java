@@ -1,7 +1,7 @@
-package FactoryMethod.classic.case_1;
+package FactoryMethod.classic.interface_imp;
 
-import FactoryMethod.classic.case_1.creator.Creator;
-import FactoryMethod.classic.case_1.product.Product;
+import FactoryMethod.classic.interface_imp.creator.Creator;
+import FactoryMethod.classic.interface_imp.product.Product;
 
 class Client {
 
